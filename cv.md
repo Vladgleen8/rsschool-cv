@@ -1,7 +1,8 @@
 # Vladislav Medvedev
-***
-##Contacts
+
+## Contacts
 **tel.** +79157929291
+
 **email:** vladis.dev@gmail.com
 
 ## Technical skills
@@ -30,5 +31,9 @@ In June 28, 2018 competed “Kovrov State Technological Academy” with a master
 **Personal projects I am currently working on:**
 
 [1. Light and Dark Component](https://github.com/Vladgleen8/DarkLighComponent)
+
+
 [2. Countdown Timer](https://github.com/Vladgleen8/Countdown-Timer)
+
+
 [3. Form Validation](https://github.com/Vladgleen8/Form-Validation)
