@@ -1,4 +1,3 @@
-***
 #Vladislav Medvedev
 ***
 ##Contacts
@@ -20,16 +19,16 @@ My previous working experience was connnected with my Academy degree, as an engi
 I am a team-player and like to achieve goals with a group of like-minded collegues. I am comminicative and non-conflict person. I think my best parts are peristence and ability to consider the problem from different angles. Due to my english language knowledge, don’t have an issues with technical documentation.
 
 ##Languages
-English: Intermediate
-Russian: Native
+***English:*** Intermediate
+***Russian:*** Native
 
 ##Education
 In June 18, 2012 completed lyceum under Tashkent Institute of textile and light industry having specialized in foreign philology and has been given profession as interpreter.
 In July 29, 2016 completed “Kovrov State Technological Academy” with a bachelor degree, having specialized in design and technological support of machine-building industries.
 In June 28, 2018 competed “Kovrov State Technological Academy” with a master degree, having specialized in technological machines and equipment.
 ##Code examples
-Personal projects I am currently working on:
+**Personal projects I am currently working on:**
 
-Light and Dark Component
-Countdown Timer
-Form Validation
+[1. Light and Dark Component](https://github.com/Vladgleen8/DarkLighComponent)
+[2. Countdown Timer](https://github.com/Vladgleen8/Countdown-Timer)
+[3. Form Validation](https://github.com/Vladgleen8/Form-Validation)
