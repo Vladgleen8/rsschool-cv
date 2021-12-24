@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 18px; 
+    row-gap: 10px;
+    box-sizing: border-box;
+}
+
+header {
+    height: 140px;
+}
+
+.name {
+    padding: 48px 162px 32px 48px;
+    background-color: yellow;
+    float: left;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    font-size: 24px;
+    line-height: 28px;
+}
+
+h2 {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+section {
+    display: inline-block;
+}
+
+aside {
+    float: right;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 500;
+    color: #73808D;
+    background-color: aqua;
+}
+
+
